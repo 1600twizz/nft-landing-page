@@ -1,6 +1,6 @@
 // METAMASK CONNECTION
 const TIMEOUT = 1000;
-const COLLECTION_NAME = 'NFTwizzys';
+const COLLECTION_NAME = 'PlayboiCartiNFT';
 let editions = [];
 let dots = 1;
 
